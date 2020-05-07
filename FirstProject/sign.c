@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main_sign(void) {
 
 	int num1 = +2;
 	int num2 = -4;

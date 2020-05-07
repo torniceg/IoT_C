@@ -15,10 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.c">
+    <ClCompile Include="sign.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="sign.c">
+    <ClCompile Include="num.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="dowhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

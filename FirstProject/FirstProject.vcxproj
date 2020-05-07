@@ -138,8 +138,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bit.c" />
+    <ClCompile Include="dowhile.c" />
+    <ClCompile Include="for.c" />
+    <ClCompile Include="for2.c" />
+    <ClCompile Include="scanf.c" />
     <ClCompile Include="sign.c" />
-    <ClCompile Include="test.c" />
+    <ClCompile Include="num.c" />
+    <ClCompile Include="while.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

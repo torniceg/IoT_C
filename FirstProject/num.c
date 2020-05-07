@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main_test(void) {
+int main_num(void) {
 
 	//int num1, num2;
 	int num3 = 30, num4 = 40;
